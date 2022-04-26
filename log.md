@@ -6,8 +6,8 @@
 
 **Thoughts:** I'm new with front development, need to practice that. Need to put more effort on the curse for Web Development in freecodecamp.org.
 
-**Link to work:** [Typewritter_effect]: https://github.com/cromega08/typewritter_effect
+**Link to work:** [Typewritter_effect] https://github.com/cromega08/typewritter_effect
 
 **Link(s) to work**
 
-1. [Typewritter_effect]: https://github.com/cromega08/typewritter_effect
+1. [Typewritter_effect] https://github.com/cromega08/typewritter_effect
