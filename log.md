@@ -2,6 +2,8 @@
 
 # Current Round: 0
 
+If you want the extended version, watch the "Diary version": https://github.com/cromega08/100-days-of-cromega-code/blob/master/r0-log.md
+
 ### Day 0: April 26, 2022
 
 **Today's Progress**: Train in codewars.com and recreate a typewritter effect with html/css.
