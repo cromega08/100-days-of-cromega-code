@@ -10,10 +10,32 @@ I've decided to follow this challenge to learn web design, that's my goal.
 
 If you want the log (resumed version) read: https://github.com/cromega08/100-days-of-cromega-code/log.md
 
+My CodePen profile, where i upload all the designs i made: https://codepen.io/cromega08
+
+My Hashnode blog for the challenge: https://100daysofcromegacode.hashnode.dev/
+
 ### R0D0
  
 A great Start, updating my journal the next day. Actually, i think i'm gonna do it this way, to start the day with an organized diary. 
  
- However, the first day i've started by organizing my personal readme in my profile and cloning this repo to do the challenge, after that started thinking about what to do and getting a litted frustrated, so stoped and just enter internet to be one with what could come. After that the improvement come.
+However, the first day i've started by organizing my personal readme in my profile and cloning this repo to do the challenge, after that started thinking about what to do and getting a litted frustrated, so stoped and just enter internet to be one with what could come. After that the improvement come.
  
-In code things, i've practice in codewars.com some katas, 3 katas of 5kyu. After that, find a video of a cool css effect and want to try it, so i've followed the tutorial and recreated, with my great style. The repo is in my profile, so you can check it: https://github.com/cromega08/typewritter_effect
+In code things, i've practice in codewars.com some katas, 3 katas of 5kyu. After that, find a video of a cool css effect and want to try it, so i've followed the tutorial and recreated, with my great style.
+
+The effect it's made with a text covered by a element and an animation to move that element, revealing in steps the text hidden; in addition, added an apparition effect with my logo and slogan.
+
+The repo is in my profile, so you can check it: https://github.com/cromega08/typewriter_effect
+
+The CodePen if you prefer: https://codepen.io/cromega08/details/OJzeKaQ
+
+### R0D1
+
+Second Update of my journal, and following the system of next day.
+
+I started by organizing all the records for this challenge, updating a blog on Hashnode i made for the challenge and my CodePen profile to show my work.
+
+After that, decided to continue creating another effect, this time a Glitch effect. Ive made it with some "span text" and shadows, all animated to change the position of each shadow and accomplish the break effect with the glitch.
+
+The repo is in my profile, so you can check it: https://github.com/cromega08/glitch_effect
+
+The CodePen if you prefer: https://codepen.io/cromega08/details/popXMKq
