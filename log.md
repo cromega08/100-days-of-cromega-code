@@ -10,7 +10,7 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** I'm new with front development, need to practice that. Need to put more effort on the curse for Web Development in freecodecamp.org.
 
-**Link to work:** [Typewritter_effect]| Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
+**Link to work:** [Typewritter_effect]| Repo: https://github.com/cromega08/typewritter_effect Pen: https://codepen.io/cromega08/details/OJzeKaQ
 
 ### Day 1: April 27, 2022
 
@@ -18,9 +18,18 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** I'm getting more confident with animations and learning a lot of pseudo-classes and new tags.
 
-**Link to work:** [Glitch_effect]| Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
+**Link to work:** [Glitch_effect]| Repo: https://github.com/cromega08/glitch_effect Pen: https://codepen.io/cromega08/pen/popXMKq
+
+### Day 2: April 28, 2022
+
+**Today's Progress**: Decided to join 2 challenges of 100 Days in one, started "100 Days of DailyUI", designed a Sign Up page with html/css.
+
+**Thoughts:** This new challenge of UI make me improve a lot, i've never was able to code a UI and i did it for the first time, i was extremely happy.
+
+**Link to work:** [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
 
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
 2. [Glitch_effect] | Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
+3. [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
