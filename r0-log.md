@@ -24,9 +24,9 @@ In code things, i've practice in codewars.com some katas, 3 katas of 5kyu. After
 
 The effect it's made with a text covered by a element and an animation to move that element, revealing in steps the text hidden; in addition, added an apparition effect with my logo and slogan.
 
-The repo is in my profile, so you can check it: https://github.com/cromega08/typewriter_effect
+Repo: https://github.com/cromega08/typewriter_effect
 
-The CodePen if you prefer: https://codepen.io/cromega08/details/OJzeKaQ
+Pen: https://codepen.io/cromega08/details/OJzeKaQ
 
 ### R0D1
 
@@ -36,6 +36,18 @@ I started by organizing all the records for this challenge, updating a blog on H
 
 After that, decided to continue creating another effect, this time a Glitch effect. Ive made it with some "span text" and shadows, all animated to change the position of each shadow and accomplish the break effect with the glitch.
 
-The repo is in my profile, so you can check it: https://github.com/cromega08/glitch_effect
+Repo: https://github.com/cromega08/glitch_effect
 
-The CodePen if you prefer: https://codepen.io/cromega08/details/popXMKq
+Pen: https://codepen.io/cromega08/details/popXMKq
+
+###R0D2
+
+Third update, but late cause the time to write was consumed by code.
+
+Decided to start another challenge and made it with this, the "100 Days of Daily UI". I know that challenge isn't for programming, actually, but its the motivation i need to finally learn Frontend, since ive never do it before.
+
+I coded a Sign Up Page with html/css only, its the model without any backend.
+
+Repo: https://github.com/cromega08/sign_up_page
+
+Pen: https://codepen.io/cromega08/pen/zYROZqJ
