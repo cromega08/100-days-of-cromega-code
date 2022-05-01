@@ -61,3 +61,17 @@ I continue with the challenge of 100 Days of Code/DailyUI, but today challenge w
 It seems that html/css have problem with images align on menus, so that was my problem. Try with buttons, nav elements, input images, anchor and images, and all of them doesnt response for my design, i need to learn further more of frontend design to know how to do it.
 
 So, today there's no repository or pen, just the record for my first problem in the challenge.
+
+### No-Challenge-Day: Problems of the Day
+
+At first, this would be the 5 day of the challenge, but not.
+
+Have some problems with my computer and os, so was imposible to make something personal actually.
+
+The most i do in code was practice JavaScript in the night, as the last thing of the day. 
+
+I hate it. I don't know what people love about it, i just hate the language. The syntax and the problems for nothing, i just hate it. Don't know if it's 'cause i've practice with a game called "JavaScript Robot", not directly with personal code, but have stupid problems as fails in coditionals for not enter new lines (literally fixed when enter new lines).
+
+So, today doesn't count for external problems.
+
+**JS-Robot:** https://lab.reaal.me/jsrobot/
