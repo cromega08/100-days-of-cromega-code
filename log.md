@@ -28,6 +28,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
 
+### Day 3: April 29, 2022
+
+**Today's Progress**: I found the first problem, continue with a Credit Card Checkout and cant make a dropdown menu with images.
+
+**Thoughts:** Need to continue learning the tricks and cases for html/css.
+
+**Link to work:** Not today, buddy.
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
