@@ -36,6 +36,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** Not today, buddy.
 
+### No-Challenge-Day: Problems
+
+**Today's Progress**: Fails with my computer and os, couldn't program anything for the challenge. Practice JS with JS-Robot.
+
+**Thoughts:** I hate JS, all about it, at least until date.
+
+**JS Robot:** https://lab.reaal.me/jsrobot/
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
