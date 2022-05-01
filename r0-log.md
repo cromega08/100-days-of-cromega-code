@@ -40,7 +40,7 @@ Repo: https://github.com/cromega08/glitch_effect
 
 Pen: https://codepen.io/cromega08/details/popXMKq
 
-###R0D2
+### R0D2
 
 Third update, but late cause the time to write was consumed by code.
 
@@ -51,3 +51,13 @@ I coded a Sign Up Page with html/css only, its the model without any backend.
 Repo: https://github.com/cromega08/sign_up_page
 
 Pen: https://codepen.io/cromega08/pen/zYROZqJ
+
+### R0D3
+
+Four day, and find the first obstacule that dont let me upload complete code on that day.
+
+I continue with the challenge of 100 Days of Code/DailyUI, but today challenge was a credit card checkout. And you say: "What is so bad? It so easy" and it is, but i wanna challenge and try to do a dropdown menu. And you ask, again: "Why is so bad? That its easy, too", and it is, but i decided to do it with images.
+
+It seems that html/css have problem with images align on menus, so that was my problem. Try with buttons, nav elements, input images, anchor and images, and all of them doesnt response for my design, i need to learn further more of frontend design to know how to do it.
+
+So, today there's no repository or pen, just the record for my first problem in the challenge.
