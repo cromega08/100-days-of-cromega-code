@@ -75,3 +75,18 @@ I hate it. I don't know what people love about it, i just hate the language. The
 So, today doesn't count for external problems.
 
 **JS-Robot:** https://lab.reaal.me/jsrobot/
+
+### R0D4
+
+Today was a productive day, it was absolutly worth it.
+
+Different to yesteray, today wasnt any problem and can code in peace. In the opposite record of yesterday, today started learning JS in a way i like it.
+Haow they called: "The modern JS tutorial". And yes, the lesson are completly ease to understand and explain the language with the most recents updates.
+
+After that, ended the credit card checkout, i leave you the link below. Resolved the problem with "position: relative" and a mix between "display: (inline-block/flex)", but at end only need flex.
+
+**Modern JS tutorial:** https://javascript.info/
+
+Repo: https://github.com/cromega08/credit_card_checkout
+
+Pen: https://codepen.io/cromega08/pen/zYROZqJ 
