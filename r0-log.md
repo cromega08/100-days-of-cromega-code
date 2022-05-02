@@ -89,7 +89,7 @@ After that, ended the credit card checkout, i leave you the link below. Resolved
 
 Repo: https://github.com/cromega08/credit_card_checkout
 
-Pen: https://codepen.io/cromega08/pen/zYROZqJ 
+Pen: https://codepen.io/cromega08/pen/wvyvxVB
 
 ### R0D5
 
@@ -103,6 +103,6 @@ Today, design a UI for a simple Calculator app, but with my style. Doesn't have 
 
 P.D: Decided to keep this records at date cause... yes, so, 2 updates the same day, but for differents days.
 
-Repo: https://github.com/cromega08/credit_card_checkout
+Repo: https://github.com/cromega08/calculator
 
-Pen: https://codepen.io/cromega08/pen/zYROZqJ 
+Pen: https://codepen.io/cromega08/pen/mdXyWZe
