@@ -52,9 +52,18 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Credit Card Checkout] Repo: https://github.com/cromega08/credit_card_checkout. Pen: https://codepen.io/cromega08/pen/wvyvxVB
 
+### Day 5: May 02, 2022
+
+**Today's Progress**: Made a simple Calculator UI for the challenge, acomplished some kata from codewars and learn JS.
+
+**Thoughts:** JS isn't so hard util the moment, and gonna add more thinks to the current projects when learn enough JS.
+
+**Link to work:** [Calculator UI] Repo: https://github.com/cromega08/calculator Pen: https://codepen.io/cromega08/pen/mdXyWZe
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
 2. [Glitch_effect] | Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
 3. [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
 4. [Credit Card Checkout] Repo: https://github.com/cromega08/credit_card_checkout. Pen: https://codepen.io/cromega08/pen/wvyvxVB
+5. [Calculator UI] Repo: https://github.com/cromega08/calculator Pen: https://codepen.io/cromega08/pen/mdXyWZe
