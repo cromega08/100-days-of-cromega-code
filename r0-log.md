@@ -90,3 +90,19 @@ After that, ended the credit card checkout, i leave you the link below. Resolved
 Repo: https://github.com/cromega08/credit_card_checkout
 
 Pen: https://codepen.io/cromega08/pen/zYROZqJ 
+
+### R0D5
+
+Another productive day, and not only in frontend development.
+
+The day started with a practice of Python. Have a few days without building python code, and today did it again. Resolve some kata in codewars and all my morning was in that.
+
+In the afternoon continue with the lessons of JS, and after i get completly satisfied for the day (in the morning i studied moreless) decided to make a challenge of DailyUI.
+
+Today, design a UI for a simple Calculator app, but with my style. Doesn't have any backend at the moment, but i'm gonna update that project later, when i learn enough of JS.
+
+P.D: Decided to keep this records at date cause... yes, so, 2 updates the same day, but for differents days.
+
+Repo: https://github.com/cromega08/credit_card_checkout
+
+Pen: https://codepen.io/cromega08/pen/zYROZqJ 
