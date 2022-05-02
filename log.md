@@ -44,8 +44,17 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **JS Robot:** https://lab.reaal.me/jsrobot/
 
+### Day 4: May 01, 2022
+
+**Today's Progress**: Ended the Credit Card Checkout UI and started a different course for learning JS.
+
+**Thoughts:** This new JS course it's more my style and like it more. The challenge of code was more easy to resolve than i think.
+
+**Link to work:** [Credit Card Checkout] Repo: https://github.com/cromega08/credit_card_checkout. Pen: https://codepen.io/cromega08/pen/wvyvxVB
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
 2. [Glitch_effect] | Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
 3. [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
+4. [Credit Card Checkout] Repo: https://github.com/cromega08/credit_card_checkout. Pen: https://codepen.io/cromega08/pen/wvyvxVB
