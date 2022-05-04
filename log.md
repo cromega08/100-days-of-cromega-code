@@ -60,6 +60,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Calculator UI] Repo: https://github.com/cromega08/calculator Pen: https://codepen.io/cromega08/pen/mdXyWZe
 
+### Day 6: May 03, 2022
+
+**Today's Progress**: Refined my lasts designs, the seems amazing now. Resolve my firsts kata in JS in codewars.
+
+**Thoughts:** My programming logic improved in a great way, doesn't have any problem switching from JS to Python and vice versa.
+
+- **No new work, refers to lasts**
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
