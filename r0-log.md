@@ -101,8 +101,20 @@ In the afternoon continue with the lessons of JS, and after i get completly sati
 
 Today, design a UI for a simple Calculator app, but with my style. Doesn't have any backend at the moment, but i'm gonna update that project later, when i learn enough of JS.
 
-P.D: Decided to keep this records at date cause... yes, so, 2 updates the same day, but for differents days.
+P.D: Decided to keep this records at date 'cause... yes, so, 2 updates the same day, but for differents dates.
 
 Repo: https://github.com/cromega08/calculator
 
 Pen: https://codepen.io/cromega08/pen/mdXyWZe
+
+### R0D6
+
+A productive day, in a very special way.
+
+The first thing of the day was fix my last web designs, 'cause clearly wasn't finished. Didn't have responsive implementations or the eleents wasn't installed. So, i refined that's designs and ended very proud of the result.
+
+After that come the special thing: Resolve my first kata in JS (YEEESSS!!!). Officially know the syntaxis of JS, and not only that, learn to make some "one line code" in a efficient way and resolved a kata with the same level of my training with Python. The epifany of the words: "You could switch between the language if you know the syntax and have a good logic" come to my mind, was an amazing realization, improve my confidence more than alredy it's (I'm the best).
+
+So, i don't do any new thing, but improve my the knowledge alredy have, which it's super important.
+
+"Don't fear the man with a thousand techniques, fear the man who masters one to perfection."
