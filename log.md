@@ -68,6 +68,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 - **No new work, refers to lasts**
 
+### Day 7: May 04, 2022
+
+**Today's Progress**: Code the hour required for the challenge and rest the rest of the day.
+
+**Thoughts:** Rest it's important, watch "Dr. Strange in the Multiverse of Madness" and was dissapointed.
+
+**Link to work:** [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
@@ -75,3 +83,4 @@ If you want the extended version, watch the "Diary version": https://github.com/
 3. [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
 4. [Credit Card Checkout] Repo: https://github.com/cromega08/credit_card_checkout. Pen: https://codepen.io/cromega08/pen/wvyvxVB
 5. [Calculator UI] Repo: https://github.com/cromega08/calculator Pen: https://codepen.io/cromega08/pen/mdXyWZe
+6. [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
