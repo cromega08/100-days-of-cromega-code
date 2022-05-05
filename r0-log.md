@@ -118,3 +118,15 @@ After that come the special thing: Resolve my first kata in JS (YEEESSS!!!). Off
 So, i don't do any new thing, but improve my the knowledge alredy have, which it's super important.
 
 "Don't fear the man with a thousand techniques, fear the man who masters one to perfection."
+
+### R0D7
+
+More than a week in the challenge, today it's a special day because i'm only code the hour required for the challenge.
+
+I was outside all day and watch "Dr. Strange in Multiverse of Madness" at the end, so was a relaxing day most of all. Resting it's important.
+
+The code for both challenges was to design a brand logo. I recreate with code the instagram logo in 2 versions and make an animation to switch among both.
+
+Repo: https://github.com/cromega08/instagram_logo
+
+Pen:https://codepen.io/cromega08/pen/zYRvvvV
