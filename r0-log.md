@@ -130,3 +130,15 @@ The code for both challenges was to design a brand logo. I recreate with code th
 Repo: https://github.com/cromega08/instagram_logo
 
 Pen:https://codepen.io/cromega08/pen/zYRvvvV
+
+### R0D8
+
+Today was a weird day. Awake and lift up with a big energy, refined the Instagram Logo, added responsive animations to switch among to designs and pulish other details.
+
+After that, only practice some coding in JS, learn about "Functions Expressed" and accomplish some katas in codewars.
+
+Want and need to make some new projects, planning to expend weekend on a big project.
+
+Repo: https://github.com/cromega08/instagram_logo
+
+Pen:https://codepen.io/cromega08/pen/zYRvvvV
