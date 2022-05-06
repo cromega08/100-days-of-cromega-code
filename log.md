@@ -76,6 +76,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
 
+### Day 8: May 05, 2022
+
+**Today's Progress**: Refined the Instagram Logo, added responsive switch among two design versions. Accomplished some katas.
+
+**Thoughts:** Want and need to make new projects, planning to do a big project on wekkend.
+
+**Link to work:** [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
