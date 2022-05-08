@@ -92,6 +92,12 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
 
+### Day 10: May 07, 2022
+
+**Today's Progress**: Doesn't have the energy to do anything, actually. Practice and made some code for other things in my daily life.
+
+**Thoughts:** The feeling of make something big make explode my anxiety, tomorrow gonna start and win over it.
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
