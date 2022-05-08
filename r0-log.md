@@ -158,3 +158,11 @@ P.D: Fucking Github doesn't count my last update and lost my streak at almost a 
 Repo: https://github.com/cromega08/404_webpage
 
 Pen: https://codepen.io/cromega08/pen/WNMQVPb
+
+### R0D10
+
+Wasn't a productive day.
+
+My brain was drained today, feel pretty tired actually when refer to coding. I planned to do some challenge i'v been defering from "100 Days of Daily UI" 'cause are very difficult for my level. Are design a "Landing Page" for a website design a "Settings menu" and design a "Profile Menu".
+
+And you say: "Why it's difficult? it's pretty basic for any web developer know that" and yes, i agree. But i started learning web design almost at the same time started thi challenge, it's mean at least 2 weeks ago. So decided to take all the weekend to code this 3 pages and make a simulated website that run in a local repositorie (non a real website, only design), but feel drained and ended practicing katas and resolving some things in my personal life.
