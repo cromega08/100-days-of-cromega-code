@@ -80,9 +80,17 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Today's Progress**: Refined the Instagram Logo, added responsive switch among two design versions. Accomplished some katas.
 
-**Thoughts:** Want and need to make new projects, planning to do a big project on wekkend.
+**Thoughts:** Want and need to make new projects, planning to do a big project on weekend.
 
 **Link to work:** [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
+
+### Day 9: May 06, 2022
+
+**Today's Progress**: Coded a "404 - Page not Found" template, still html/css only.
+
+**Thoughts:** Display options are very tricky. Wants to dominate this. Angry with Github beacuse lost my streak without valid reason, i commit.
+
+**Link to work:** [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
 
 **Link(s) to work**:
 
@@ -92,3 +100,4 @@ If you want the extended version, watch the "Diary version": https://github.com/
 4. [Credit Card Checkout] Repo: https://github.com/cromega08/credit_card_checkout. Pen: https://codepen.io/cromega08/pen/wvyvxVB
 5. [Calculator UI] Repo: https://github.com/cromega08/calculator Pen: https://codepen.io/cromega08/pen/mdXyWZe
 6. [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
+7. [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
