@@ -142,3 +142,19 @@ Want and need to make some new projects, planning to expend weekend on a big pro
 Repo: https://github.com/cromega08/instagram_logo
 
 Pen:https://codepen.io/cromega08/pen/zYRvvvV
+
+### R0D9
+
+Was a very productive day.
+
+Coded a "404 - Page not Found" template for the challenges and was pretty instructive in display css options.
+
+The problem it's my energy, started to feel burnedout for all the things i'm coding daily non-stop. But not gonna give up, this challenge until date be the most productive thing that improvement my programming skills and don't wanna give up at all.
+
+10 Days accomplished and continous.
+
+P.D: Fucking Github doesn't count my last update and lost my streak at almost a week of commiting every day ;-;
+
+Repo: https://github.com/cromega08/404_webpage
+
+Pen: https://codepen.io/cromega08/pen/WNMQVPb
