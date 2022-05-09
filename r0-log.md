@@ -166,3 +166,11 @@ Wasn't a productive day.
 My brain was drained today, feel pretty tired actually when refer to coding. I planned to do some challenge i'v been defering from "100 Days of Daily UI" 'cause are very difficult for my level. Are design a "Landing Page" for a website design a "Settings menu" and design a "Profile Menu".
 
 And you say: "Why it's difficult? it's pretty basic for any web developer know that" and yes, i agree. But i started learning web design almost at the same time started thi challenge, it's mean at least 2 weeks ago. So decided to take all the weekend to code this 3 pages and make a simulated website that run in a local repositorie (non a real website, only design), but feel drained and ended practicing katas and resolving some things in my personal life.
+
+### Resting Day
+
+Today i felt tired and decided to rest.
+
+Resting days are important, right? So, today was that day. Decided to take apart for one day all the projects and just make side things i wanted to try.
+
+Decided to try some flutter/dart code, study some syntax 'cause i wanna learn it some point and feel it very similar to JS, set up android studio for it and that was my day. Just making vaious thing without code anything.
