@@ -98,6 +98,12 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** The feeling of make something big make explode my anxiety, tomorrow gonna start and win over it.
 
+### Resting Day
+
+**Today's Progress**: Testing how works Flutter/Dart, installing extensions and seting up VSCode and Android Studio to app development, just testing and making vaious things.
+
+**Thoughts:** Restin it's important, but coding it's a very big part of my life and don't wanna leave it, just wanted to forget about the continous things of last days.
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
