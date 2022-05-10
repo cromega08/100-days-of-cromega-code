@@ -174,3 +174,17 @@ Today i felt tired and decided to rest.
 Resting days are important, right? So, today was that day. Decided to take apart for one day all the projects and just make side things i wanted to try.
 
 Decided to try some flutter/dart code, study some syntax 'cause i wanna learn it some point and feel it very similar to JS, set up android studio for it and that was my day. Just making vaious thing without code anything.
+
+### R0D11
+
+Today was a great and very productive day.
+
+Return with a great energy and coded a Music Player UI, only the interface when you're listening a song.
+
+Planned to add a interface with a carrusel of the page to select songs, both in the same html to uploaded to codepen.
+
+Feel very energic and comforted with the coding, a great motivation in my soul.
+
+Repo: https://github.com/cromega08/music_player_UI
+
+Pen: https://codepen.io/cromega08/pen/abqNGoo
