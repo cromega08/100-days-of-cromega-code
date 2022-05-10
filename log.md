@@ -104,6 +104,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** Restin it's important, but coding it's a very big part of my life and don't wanna leave it, just wanted to forget about the continous things of last days.
 
+### Day 11: May 09, 2022
+
+**Today's Progress**: Coded a "Music_Player_UI" model/template, still html/css only. Just the player part, song selected.
+
+**Thoughts:** Want to add more things to this project, and decided to set 3 parts for the challenge: "33 days to frontend/33 Days for Backend/33 Days for blockchain and web3 elements".
+
+**Link to work:** [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
@@ -113,3 +121,4 @@ If you want the extended version, watch the "Diary version": https://github.com/
 5. [Calculator UI] Repo: https://github.com/cromega08/calculator Pen: https://codepen.io/cromega08/pen/mdXyWZe
 6. [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
 7. [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
+8. [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
