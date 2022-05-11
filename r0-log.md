@@ -188,3 +188,21 @@ Feel very energic and comforted with the coding, a great motivation in my soul.
 Repo: https://github.com/cromega08/music_player_UI
 
 Pen: https://codepen.io/cromega08/pen/abqNGoo
+
+### R0D12
+
+Was a very happy day, productive and interesting in interesting discoveries.
+
+Today refined the music_player_ui, in the DailyUI challenge was challenged to design a sharing menu and take the opportunitie to add it to the project, and in the inspiration wave, add the options menu that i was reserving to a landing page, but the opportunitie come and take it.
+
+And, to complete the design, add other buttons to end the design: a back button, add_to_playlist, change the colors in animations... at the end, just ended with something great that makes me happy and improve my confidence with html and css, feel the difference with the star of the line.
+
+After that, com the second good part. Discovered a programming language multi-propose with a very useful properties and beautiful sintax, with inheterided qualities from other great languages: Crystal. Read about it and it's seem beautiful and very useful for my objectives, and seem some project with blockchain write on it that just rise the hype.
+
+So, i installed the compiler and tools to learn it in the  part of this challenge.
+
+I decided to split htis challenge in 3 parts: 33 Days of Frontend, 33 Days of Backend and 33 Days of Blockchain/Web3.
+
+Repo: https://github.com/cromega08/music_player_UI
+
+Pen: https://codepen.io/cromega08/pen/abqNGoo
