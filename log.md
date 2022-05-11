@@ -112,6 +112,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
 
+### Day 12: May 10, 2022
+
+**Today's Progress**: Refined the Music Player UI, added share and options menus to accomplish the DailyUI challenge. Practice in "CSS Speedrun".
+
+**Thoughts:** Feel pretty confidence with my abilities in html/css, discovered a new language to learn in part 3: Crystal.
+
+**Link to work:** [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
