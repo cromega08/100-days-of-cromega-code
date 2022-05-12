@@ -206,3 +206,17 @@ I decided to split htis challenge in 3 parts: 33 Days of Frontend, 33 Days of Ba
 Repo: https://github.com/cromega08/music_player_UI
 
 Pen: https://codepen.io/cromega08/pen/abqNGoo
+
+### R0D13
+
+ A worth it day, started a little problematic but fixed.
+ 
+ Started coding after breakfast, challenge today was design "Flash Messages", one positive and one negative, so i designed both using anchor elements, but had a problem while creating because edited one element and checked changes in other... happens to the best of all.
+ 
+ But, notice my mistake and designed in a organized way and all ended on road, i'm not satisfied with the result but the challenge doesn't allow more, this is'nt something super difficult.
+ 
+ On other hand, discover a very interesting website to learn blockchain and gonna explore it to know what is, but until the moment it's just a curiosity.
+
+Repo: https://github.com/cromega08/flash_message
+
+Pen: https://codepen.io/cromega08/pen/OJQRjvx
