@@ -120,6 +120,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
 
+### Day 13: May 11, 2022
+
+**Today's Progress**: Designed two Flash Messages and disover a new site to learn blockchain.
+
+**Thoughts:** Want something more difficult, a challenge to get really stressful, didn't feel satisfied with the challenge and the result.
+
+**Link to work:** [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
@@ -130,3 +138,4 @@ If you want the extended version, watch the "Diary version": https://github.com/
 6. [Instagram Logo] Repo: https://github.com/cromega08/instagram_logo Pen: https://codepen.io/cromega08/pen/zYRvvvV
 7. [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
 8. [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
+9. [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
