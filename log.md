@@ -128,7 +128,7 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
 
-### Day 14: May 11, 2022
+### Day 14: May 12, 2022
 
 **Today's Progress**: Designed a Landing Page, but isn't finished yet, rest the responsivness. Started learning responsive design.
 
@@ -137,6 +137,12 @@ If you want the extended version, watch the "Diary version": https://github.com/
 **Link to course:** [Kevin Powell Courses] https://www.kevinpowell.co/courses/
 
 **Link to work:** [Landing_Page] Repo: https://github.com/cromega08/landing_page
+
+### Day 15: May 13, 2022
+
+**Today's Progress**: Designed a card for nft's, need to add responsive design. Practice what i can and started with the concepts. Practice Python.
+
+**Thoughts:** Responsive design it's more difficult what i though. Gonna expend much time to dominate it.
 
 **Link(s) to work**:
 
