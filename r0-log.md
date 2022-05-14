@@ -236,3 +236,15 @@ It's a free course of 27 days, so gonna ended at the same time the first part of
 Repo: https://github.com/cromega08/landing_page
 
 Kevin Powell Courses: https://www.kevinpowell.co/courses/
+
+### R0D15
+
+I forgot that i'm more than 2 wekks in the challenge, interesting.
+
+Wake up with the motivation to code, but found a challenge so rough: design a message app.
+
+So, decided to try other page with challenges and found a challenge of coding a card, so try it. Fail with responsive design.
+
+But, the design was awesome, so it was worth it.
+
+Later, practice python after some time.
