@@ -220,3 +220,19 @@ Pen: https://codepen.io/cromega08/pen/abqNGoo
 Repo: https://github.com/cromega08/flash_message
 
 Pen: https://codepen.io/cromega08/pen/OJQRjvx
+
+### R0D14
+
+Today was a productive and epiphanic day.
+
+Started the day with the current challenge, which its a Landing Page, so started coding it. There's where the epiphany come, i didn't started learning responsive design yet, 'cause i have a wrong concept about what it was.
+
+I think until yesterday that responsive mean "not static": animations, personalization, style... Things like that, but no, it wasn't.
+
+So, made some math and started a daily course of one of my favorite youtuber to frontend design, called "Kevin Powell". Didn't like the methodology of "One content per day", cause it's automated and it's borign, doesn't let me flow, but it is what it is.
+
+It's a free course of 27 days, so gonna ended at the same time the first part of this challenge, but i think it's worth it. Gonna use it as a complement and learn other side topics in the same line by my own.
+
+Repo: https://github.com/cromega08/landing_page
+
+Kevin Powell Courses: https://www.kevinpowell.co/courses/
