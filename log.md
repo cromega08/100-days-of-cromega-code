@@ -128,6 +128,16 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Link to work:** [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
 
+### Day 14: May 11, 2022
+
+**Today's Progress**: Designed a Landing Page, but isn't finished yet, rest the responsivness. Started learning responsive design.
+
+**Thoughts:** Found something difficult, the responsive web design, gonna coquert it, i'm excited.
+
+**Link to course:** [Kevin Powell Courses] https://www.kevinpowell.co/courses/
+
+**Link to work:** [Landing_Page] Repo: https://github.com/cromega08/landing_page
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
@@ -139,3 +149,4 @@ If you want the extended version, watch the "Diary version": https://github.com/
 7. [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
 8. [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
 9. [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
+10. [Landing_Page] Repo: https://github.com/cromega08/landing_page
