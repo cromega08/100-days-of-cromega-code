@@ -144,6 +144,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** Responsive design it's more difficult what i though. Gonna expend much time to dominate it.
 
+### Day 16: May 13, 2022
+
+**Today's Progress**: Make some changes in the last 2 projects. Make public the "NFT Card Preview".
+
+**Thoughts:** Responsive design gonna hurt.
+
+**Link to work:** [NFT Card Preview] Repo: https://github.com/cromega08/nft_preview_card
+
 **Link(s) to work**:
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
@@ -156,3 +164,4 @@ If you want the extended version, watch the "Diary version": https://github.com/
 8. [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
 9. [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
 10. [Landing_Page] Repo: https://github.com/cromega08/landing_page
+11. [NFT Card Preview] Repo: https://github.com/cromega08/nft_preview_card
