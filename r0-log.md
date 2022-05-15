@@ -248,3 +248,11 @@ So, decided to try other page with challenges and found a challenge of coding a 
 But, the design was awesome, so it was worth it.
 
 Later, practice python after some time.
+
+### R0D16
+
+Todya wasn't a very productive day.
+
+Started by changing the units in the "NFT Preview Card", changed the buttons in the "Landing Page" and added a link to the original page. That's all.
+
+On side, practice some flex in css, learn some properties i dont know even exist, and not much more.
