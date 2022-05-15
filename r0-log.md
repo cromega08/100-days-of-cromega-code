@@ -253,6 +253,8 @@ Later, practice python after some time.
 
 Todya wasn't a very productive day.
 
-Started by changing the units in the "NFT Preview Card", changed the buttons in the "Landing Page" and added a link to the original page. That's all.
+Started by changing the units in the "NFT Preview Card", published, changed the buttons in the "Landing Page" and added a link to the original page. That's all.
 
 On side, practice some flex in css, learn some properties i dont know even exist, and not much more.
+
+Repo: https://github.com/cromega08/nft_preview_card
