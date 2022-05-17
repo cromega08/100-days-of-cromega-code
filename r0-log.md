@@ -258,3 +258,19 @@ Started by changing the units in the "NFT Preview Card", published, changed the 
 On side, practice some flex in css, learn some properties i dont know even exist, and not much more.
 
 Repo: https://github.com/cromega08/nft_preview_card
+
+###R0D17
+
+Gonna be honest, this record isn't made on the date would be, it's made 2 days later.
+
+On the 17 day don't happen anything, actually, was my typing and erasing anything i do and make side searching of other things, my mind didn't sit and code that day. The useful thing i made was track a specified road for the frameworks and technologies i'm gonna learn, thats all.
+
+###Problems-Day
+
+Because personal problems, this day i don't code, only put aside the computer, didn't was a rest day, i didn't want even to rest, it's because certain health problems, so nothing.
+
+###R0D18
+
+We back with all the energy.
+
+After the needed rest day, today was a very productive day. Ended the responsive design for both of my last projects and published the pen of both. Learn the basic of the "Markdown" language and overwrite my first big README.md for the NFT Card. Publish both project on a Github Page for the first time and was very interesting, but with the automatics tools that github include, i didn't configure aything yet, but planning to learning on side and publish other projects with it.
