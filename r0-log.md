@@ -274,3 +274,6 @@ Because personal problems, this day i don't code, only put aside the computer, d
 We back with all the energy.
 
 After the needed rest day, today was a very productive day. Ended the responsive design for both of my last projects and published the pen of both. Learn the basic of the "Markdown" language and overwrite my first big README.md for the NFT Card. Publish both project on a Github Page for the first time and was very interesting, but with the automatics tools that github include, i didn't configure aything yet, but planning to learning on side and publish other projects with it.
+
+* Landing_Page: [Repo](https://github.com/cromega08/landing_page) [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+* NFT_Preview_Card: [Repo](https://github.com/cromega08/nft_preview_card) [Pen](https://codepen.io/cromega08/pen/RwQpQyK)
