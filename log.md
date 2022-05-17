@@ -144,13 +144,33 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** Responsive design it's more difficult what i though. Gonna expend much time to dominate it.
 
-### Day 16: May 13, 2022
+### Day 16: May 14, 2022
 
 **Today's Progress**: Make some changes in the last 2 projects. Make public the "NFT Card Preview".
 
 **Thoughts:** Responsive design gonna hurt.
 
 **Link to work:** [NFT Card Preview] Repo: https://github.com/cromega08/nft_preview_card
+
+### Day 17: May 15, 2022
+
+**Today's Progress**: No progress, just being in my mind and setting a path of what i'm gonna learn.
+
+**Thoughts:** I feel tired, actually, but don't know why.
+
+### Problems
+
+**Today's Progress**: None, actually, today don't code for my health.
+
+**Thoughts:** Tired it's necesary.
+
+### Day 18: May 17, 2022
+
+**Today's Progress:** Much progress. Implemented my first responsive design, published the pens and the github pages. Learn Markdown Language, too.
+
+**Thoughts:** Feel pretty confidence again with my designs, and liked so much the results of my webpages, very very very happy. The problems it's i don't know how Pages work and the website for the Landing Page show the README.md, don't know why.
+
+**Link to Work:** NFT_Card_Preview: [Repo](https://github.com/cromega08/nft_preview_card) [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
 
 **Link(s) to work**:
 
