@@ -273,7 +273,31 @@ Because personal problems, this day i don't code, only put aside the computer, d
 
 We back with all the energy.
 
-After the needed rest day, today was a very productive day. Ended the responsive design for both of my last projects and published the pen of both. Learn the basic of the "Markdown" language and overwrite my first big README.md for the NFT Card. Publish both project on a Github Page for the first time and was very interesting, but with the automatics tools that github include, i didn't configure aything yet, but planning to learning on side and publish other projects with it.
+After the needed rest day, today was a very productive day. Ended the responsive design for both of my last projects and published the pen of both. Learn the basic of the "Markdown" language and overwrite my first big README.md for the NFT Card. Publish both project on a Github Page for the first time and was very interesting, but with the automatics tools that github include, i didn't configure anything yet, but planning to learning on side and publish other projects with it.
 
-* Landing_Page: [Repo](https://github.com/cromega08/landing_page) [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
-* NFT_Preview_Card: [Repo](https://github.com/cromega08/nft_preview_card) [Pen](https://codepen.io/cromega08/pen/RwQpQyK)
+* Landing_Page: [Repo](https://github.com/cromega08/landing_page) - [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+* NFT_Preview_Card: [Repo](https://github.com/cromega08/nft_preview_card) - [Pen](https://codepen.io/cromega08/pen/RwQpQyK)
+
+###R0D19
+
+Started to design a pop-up/overlay design from the "100 Days of DailyUI" Challenge and learn more about the modals. Started to organize other personal things and ended with the design published. Learn about how the "svg" works and their attributes.
+
+* Pop-up/Overlay: [Repo](https://github.com/cromega08/overlay) - [Pen](https://codepen.io/cromega08/pen/mdXmRNG)
+
+###R0D20
+
+Started to design a Chat App Illustration, from a Frontend Mentor Challenge, but only code in the morning 'cause do other things in the day, so just was that.
+
+###R0D21
+
+Ended the design that started yesterday, wasn't complicated and feel pretty easy to ser elements. The difficult part was to set the @media-queries to make it responsive, was a hell 'cause need to work for many screen sizes and, as an illustration, broke pretty easy in differenc screens, wasn't an app itself so the sizes need to adapt and... was complicated.
+
+On the other hand, feel very stressed about the time to accomplush my goals in this challenge, doesn't learn JS for Frontend and rest 10 days for the limit i put to myself, so feel complicated to accomplish, my mind feel tired.
+
+* Chat_App_Illustration: [Repo](https://github.com/cromega08/chat_app_illustration) - [Pen](https://codepen.io/cromega08/details/gOvxWOJ)
+
+###R0D22
+
+Feel tired, absolutly tired, my mind doesn't focus today, just jump among things i want to do and was a total caos.
+
+Doesn't code anything, at the end was a theory day. Learn about how the internet works, http protocol and the OSI model. Learn about how to debbug JS on browser (the theory, doesn't debbug anything yet) and other concepts to set the mentality of a web developer an the tools used for it. Learn the base of DOM and it's manipulation, too, but feel pretty hard and gonna be a problem to learn, but gonna put all my effort into it, as always.
