@@ -170,9 +170,38 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** Feel pretty confidence again with my designs, and liked so much the results of my webpages, very very very happy. The problems it's i don't know how Pages work and the website for the Landing Page show the README.md, don't know why.
 
-**Link to Work:** NFT_Card_Preview: [Repo](https://github.com/cromega08/nft_preview_card) [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+**Link to Work:** 
 
-**Link(s) to work**:
+* Landing_Page: [Repo](https://github.com/cromega08/landing_page) - [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+* NFT_Card_Preview: [Repo](https://github.com/cromega08/nft_preview_card) - [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+
+### Day 19: May 18, 2022
+
+**Today's Progress:** Designed a Pop-Up/Overlay for my "100 Days of DailyUI" Challenge, and implemented it's responsive @media-queries. Learn about svg.
+
+**Thoughts:** SVG are very complicated, but useful, gonna be a great tool.
+
+**Link to Work:** Pop-up/Overlay: [Repo](https://github.com/cromega08/overlay) - [Pen](https://codepen.io/cromega08/pen/mdXmRNG)
+
+### Day 20: May 19, 2022
+
+**Today's Progress:** Started to design a Chat App Illustration from a Frontend Mentor Challenge.
+
+**Thoughts:** Feel happy to continue the challenge, even if my day only allow me to code 1 hour.
+
+### Day 21: May 20, 2022
+
+**Today's Progress:** Ended the Illustration and added the @media-queries.
+
+**Thougts:** @media-queries are useful only in certain situations, gonna improve and learn responsive layouts for next project of that type.
+
+**Link to Work:** Chat_App_Illustration: [Repo](https://github.com/cromega08/chat_app_illustration) - [Pen](https://codepen.io/cromega08/details/gOvxWOJ)
+
+### Day 22: May 21, 2022
+
+**Today's Progress:** Theory day, learn: How internet work, OSI model, http protocol, JS tools for debbug and standart to work on all engines, and DOM concepts.
+
+**Thoughts:** DOM manipulation doesn't gonna be so easy, and feel i'm late for my dates to end the challenge.
 
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
 2. [Glitch_effect] | Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
@@ -183,5 +212,7 @@ If you want the extended version, watch the "Diary version": https://github.com/
 7. [404 Webpage] Repo: https://github.com/cromega08/404_webpage Pen: https://codepen.io/cromega08/details/WNMQVPb
 8. [Music_Player_UI] Repo: https://github.com/cromega08/music_player_UI Pen: https://codepen.io/cromega08/pen/abqNGoo
 9. [Flash_Messages] Repo: https://github.com/cromega08/flash_message Pen: https://codepen.io/cromega08/pen/OJQRjvx
-10. [Landing_Page] Repo: https://github.com/cromega08/landing_page
-11. [NFT Card Preview] Repo: https://github.com/cromega08/nft_preview_card
+10. Landing_Page: [Repo](https://github.com/cromega08/landing_page) - [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+11. NFT_Card_Preview: [Repo](https://github.com/cromega08/nft_preview_card) - [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
+12. Pop-up/Overlay: [Repo](https://github.com/cromega08/overlay) - [Pen](https://codepen.io/cromega08/pen/mdXmRNG)
+13. Chat_App_Illustration: [Repo](https://github.com/cromega08/chat_app_illustration) - [Pen](https://codepen.io/cromega08/details/gOvxWOJ)
