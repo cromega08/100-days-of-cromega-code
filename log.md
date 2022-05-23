@@ -203,6 +203,12 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** DOM manipulation doesn't gonna be so easy, and feel i'm late for my dates to end the challenge.
 
+### Day 23: May 22, 2022
+
+**Today's Progress:** Today was just a commit day, putting all things to date. Tomorrow start a course with a scholarchip I win and need to prepare.
+
+**Thoughts:** Starting tomorrow gonna need divide my time between the challenge and this challenge. Not gonna give up, i'm gonna be a Blockchain DApp developer.
+
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
 2. [Glitch_effect] | Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
 3. [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
