@@ -259,7 +259,7 @@ On side, practice some flex in css, learn some properties i dont know even exist
 
 Repo: https://github.com/cromega08/nft_preview_card
 
-###R0D17
+### R0D17
 
 Gonna be honest, this record isn't made on the date would be, it's made 2 days later.
 
@@ -269,7 +269,7 @@ On the 17 day don't happen anything, actually, was my typing and erasing anythin
 
 Because personal problems, this day i don't code, only put aside the computer, didn't was a rest day, i didn't want even to rest, it's because certain health problems, so nothing.
 
-###R0D18
+### R0D18
 
 We back with all the energy.
 
@@ -278,7 +278,7 @@ After the needed rest day, today was a very productive day. Ended the responsive
 * Landing_Page: [Repo](https://github.com/cromega08/landing_page) - [Pen](https://codepen.io/cromega08/pen/wvyJJyG)
 * NFT_Preview_Card: [Repo](https://github.com/cromega08/nft_preview_card) - [Pen](https://codepen.io/cromega08/pen/RwQpQyK)
 
-###R0D19
+### R0D19
 
 Started to design a pop-up/overlay design from the "100 Days of DailyUI" Challenge and learn more about the modals. Started to organize other personal things and ended with the design published. Learn about how the "svg" works and their attributes.
 
@@ -288,7 +288,7 @@ Started to design a pop-up/overlay design from the "100 Days of DailyUI" Challen
 
 Started to design a Chat App Illustration, from a Frontend Mentor Challenge, but only code in the morning 'cause do other things in the day, so just was that.
 
-###R0D21
+### R0D21
 
 Ended the design that started yesterday, wasn't complicated and feel pretty easy to ser elements. The difficult part was to set the @media-queries to make it responsive, was a hell 'cause need to work for many screen sizes and, as an illustration, broke pretty easy in differenc screens, wasn't an app itself so the sizes need to adapt and... was complicated.
 
@@ -296,8 +296,20 @@ On the other hand, feel very stressed about the time to accomplush my goals in t
 
 * Chat_App_Illustration: [Repo](https://github.com/cromega08/chat_app_illustration) - [Pen](https://codepen.io/cromega08/details/gOvxWOJ)
 
-###R0D22
+### R0D22
 
 Feel tired, absolutly tired, my mind doesn't focus today, just jump among things i want to do and was a total caos.
 
 Doesn't code anything, at the end was a theory day. Learn about how the internet works, http protocol and the OSI model. Learn about how to debbug JS on browser (the theory, doesn't debbug anything yet) and other concepts to set the mentality of a web developer an the tools used for it. Learn the base of DOM and it's manipulation, too, but feel pretty hard and gonna be a problem to learn, but gonna put all my effort into it, as always.
+
+### R0D23
+
+Today was a commiting day.
+
+The last 4 records before this was maded today because i didn't have the energy and the space in my brain to do it, so just was postponed in favor of my mental health and my improve in the objective of this challenge, which it's to learn web3.
+
+And, things apart, today need to rest because tomorrow start a programming course.
+
+ **I win a scholarship!**
+
+I win it weeks before, but this isn't a personal diary, so until this moment doesn't was a problem for the challenge, but starting tomorrow need to divide my time between that course and my own challenge. So, gonna keep some updates about it to.
