@@ -313,3 +313,9 @@ And, things apart, today need to rest because tomorrow start a programming cours
  **I win a scholarship!**
 
 I win it weeks before, but this isn't a personal diary, so until this moment doesn't was a problem for the challenge, but starting tomorrow need to divide my time between that course and my own challenge. So, gonna keep some updates about it to.
+
+### Challenge in hiatus | Stopped
+
+Well, almost a week from last update. This gonna be short, the scholarship isn't what i expected and i'm gonna have to teach myself and the time consumed by this it's more than expected, plus that i'm not gonna do the hazing and nonsense of learning more than 1 topic at time, that just gonna burn my brain.
+
+So, for external causes, this gonna stand here for the moment and not gonna update or anything. I'm continue learning by myself, I haven't give up on the goal for which I started this challenge, i'm gonna be a blockchain developer at the end of the third trimester of this year, but gonna do it at my time and mixed with the new things in my life.
