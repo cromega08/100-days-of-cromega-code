@@ -209,6 +209,14 @@ If you want the extended version, watch the "Diary version": https://github.com/
 
 **Thoughts:** Starting tomorrow gonna need divide my time between the challenge and this challenge. Not gonna give up, i'm gonna be a Blockchain DApp developer.
 
+### Challenge in hiatus | Stopped
+
+Well, almost a week from last update. This gonna be short, the scholarship isn't what i expected and i'm gonna have to teach myself and the time consumed by this it's more than expected, plus that i'm not gonna do the hazing and nonsense of learning more than 1 topic at time, that just gonna burn my brain.
+
+So, for external causes, this gonna stand here for the moment and not gonna update or anything. I'm continue learning by myself, I haven't give up on the goal for which I started this challenge, i'm gonna be a blockchain developer at the end of the third trimester of this year, but gonna do it at my time and mixed with the new things in my life.
+
+## My Work
+
 1. [Typewritter_effect] | Repo: https://github.com/cromega08/typewritter_effect CodePen: https://codepen.io/cromega08/details/OJzeKaQ
 2. [Glitch_effect] | Repo: https://github.com/cromega08/glitch_effect CodePen: https://codepen.io/cromega08/pen/popXMKq
 3. [Sign Up Page] Repo: https://github.com/cromega08/sign_up_page Pen: https://codepen.io/cromega08/details/zYROZqJ
