@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 0 - Cromega
+# 100DaysOfCode Log - Round 0 - Cromega
 
 The diary part of my #100DaysOfCode challenge. Started on 25-04-2022.
 
